@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faikuzzaman-Rizvi
-- 👀 I’m interested in WEB AND APP DEVELOPMENT 
+- 👀 I’m interested in Web and App Development 
 - 🌱 I’m currently learning PHP and Laravel
 - 💞️ I’m looking to collaborate on open-source projects and innovative web/app development ideas
 - 📫 How to reach me: frrizvi11@gmail.com
