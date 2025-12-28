@@ -78,7 +78,7 @@ const developer = {
 
 ### 💭 Developer Quote
 
-![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=To+me,+programming+is+like+a+strategic+game%3A+every+bug+is+a+puzzle+to+solve,+every+new+feature+a+level+to+conquer,+and+that+euphoric+moment+when+the+code+runs+perfectly+is+the+ultimate+victory.&author=Faikuzzaman+Rizvi)
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Programming+is+like+a+game%3A+bugs+are+puzzles+to+solve%2C+new+features+are+levels+to+unlock%2C+and+when+the+code+runs+perfectly%2C+that's+the+ultimate+win!&author=Faikuzzaman+Rizvi)
 
 </div>
 
