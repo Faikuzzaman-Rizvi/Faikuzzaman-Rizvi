@@ -88,7 +88,7 @@ const developer = {
   
   ### 📫 Let's Connect & Build Something Amazing Together!
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/faikuzaman-rizvi)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faikuzaman-rizvi)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rizvidev313@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me)](your-portfolio-url)
   
