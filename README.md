@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/faikuzaman-rizvi)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faikuzaman-rizvi)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizvidev313@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
   
@@ -16,7 +16,7 @@
 
 ```javascript
 const developer = {
-    name: "Your Faikuzzaman-Rizvi",
+    name: "Faikuzzaman-Rizvi",
     role: "Junior Software Engineer",
     location: "Bangladesh",
     expertise: ["Full-Stack Development", "Web APIs", "Database Design"],
@@ -75,10 +75,10 @@ const developer = {
 
 
 <div align="center">
-  
+
 ### 💭 Developer Quote
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=To+me,+programming+is+like+a+strategic+game%3A+every+bug+is+a+puzzle+to+solve,+every+new+feature+a+level+to+conquer,+and+that+euphoric+moment+when+the+code+runs+perfectly+is+the+ultimate+victory.&author=Faikuzzaman+Rizvi)
 
 </div>
 
